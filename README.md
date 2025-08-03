@@ -1,8 +1,8 @@
 # Hey there, I'm Anirban 👋
 
-🎓 First-year B.Tech Biotechnology student at Adamas University
-🧬 Biotech brain with a coder's heart — building the future where biology meets tech
-⚽ CR7 enthusiast | Science + Sports = Life
+- 🎓 First-year B.Tech Biotechnology student at Adamas University
+- 🧬 Biotech brain with a coder's heart — building the future where biology meets tech
+- ⚽ CR7 enthusiast | Science + Sports = Life
 
 ---
 
@@ -28,6 +28,18 @@
 
 ### 💻 Languages & Tools I Use:
 
+### 🐍 Programming & Scripting:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+
+### ⚙️ Version Control & Collaboration:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 🧰 Development Tools:
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 ---
 
 ### 📌 Current Goals:
@@ -40,7 +52,8 @@
 ---
 
 ### 🤝 Let's connect:
-
+- Email : roybabuanik50@gmail.com
+- instagram : @cr.anirban_18
 
 👀 Wanna collab or just talk CRISPR and Cristiano? Slide in my DMs anytime.
 
